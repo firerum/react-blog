@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "my lane",
+      "body": "I wanted to try the traditional method of submitting form using post, but the app crashed.",
+      "author": "mario",
+      "id": 8
+    }
+  ]
+}
